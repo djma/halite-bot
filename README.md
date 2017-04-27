@@ -5,9 +5,7 @@ By the end of the TS internal competition I was struggling with anti-overkill ta
 
 I submitted my final bot to the Halite Open contest. Surprisingly, it finished better than I expected at 19th, but the top 10 players pushed the game much further. The difference between #1 and #19 is immense.
 
-===========================
-General outline of strategy
-===========================
+## General outline of strategy
 
 Since the TS competition was quite short, I decided early on to not spend too much time building a 'beautiful' bot with emergent behavior / short number of lines / well modularized code / etc. I instead relied on heuristics and A/B testing the bot against itself after each feature.
 
